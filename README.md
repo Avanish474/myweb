@@ -58,30 +58,29 @@ Basics of Docker
  3- This job will download the Github code from this repository and put in this workspace
  
  
-    ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-1.png)
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-1.png)
  
      
-    ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-2.png)
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-2.png)
    
-    ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-3.png)
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-3.png)
    
  
  4- This job will check the type of code and the respective container containg the interpreter
  
-     ![alt text](https://github.com/Avanish474/myweb/blob/master/job2-1.png)
-   
-     ![alt text](https://github.com/Avanish474/myweb/blob/master/job2-3.png)
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job2-1.png)
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job2-3.png)
    
  5- This job will test whether the web page is opening or not and ouput the required message.
  
-     ![alt text](https://github.com/Avanish474/myweb/blob/master/job3.png)
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job3.png)
    
  6- This job will send the notification whether the webpage is not opening .
  
-     ![alt text](https://github.com/Avanish474/myweb/blob/master/job4.png)
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job4.png)
    
  7- This job will monitor if the container with interpretter is running or not and will run it if its not working.   
    
-     ![alt text](https://github.com/Avanish474/myweb/blob/master/job5.png)
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job5.png)
    
   
