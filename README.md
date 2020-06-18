@@ -63,6 +63,7 @@ Basics of Docker
         
         
    This will provide you with password to jenkins .Copy it from here and run jenkins using your IP and port 8081 (ex 192.168.43.210:8081).Once you have reached to the jenins page paste your password here and download the required plugins.
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/dockerjenkins.png) 
    
    
  3- This job will download the Github code from this repository and put in this workspace
