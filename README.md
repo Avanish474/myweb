@@ -56,6 +56,24 @@ Basics of Docker
    
    
  3- ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-1.png)
+ 
+     
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-2.png)
+   
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-3.png)
+   
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job2-1.png)
+   
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job2-3.png)
+   
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job3.png)
+   
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job4.png)
    
    
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-1.png)
    
+   
+   ![alt text](https://github.com/Avanish474/myweb/blob/master/job5.png)
+   
+  
