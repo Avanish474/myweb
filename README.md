@@ -51,8 +51,11 @@ Basics of Docker
         docker run -it -p 8081:8080 -v /var/run/docker.sock:/var/run/docker.sock --name jenkinscont jenkins
         
         
-   This will provide you with password to jenkins .Copy it from here and run jenkins using your IP and port 8081 (ex 192.168.43.210:8081)
+        
+   This will provide you with password to jenkins .Copy it from here and run jenkins using your IP and port 8081 (ex 192.168.43.210:8081).Once you have reached to the jenins page paste your password here and download the required plugins.
    
+   
+ 3- ![alt text](https://github.com/Avanish474/myweb/blob/master/job1-1.png)
    
    
    
