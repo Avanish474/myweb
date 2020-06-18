@@ -20,9 +20,17 @@
 # Prerequisites
 
 Redhat 8 inside a virtual machine
+
+
 Docker should be installed
+
+
 Basics of Linux
+
+
 Basics of Jenkins
+
+
 Basics of Docker
 
 
